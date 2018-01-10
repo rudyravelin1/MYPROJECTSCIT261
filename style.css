@@ -13,3 +13,9 @@ a:hover {
 	position: center;
 	font-size: 50px;
 }
+
+p.p2 {
+	color: white;
+	font-size: 20px;
+	text-shadow: 4px 4px #FF0000;
+}
