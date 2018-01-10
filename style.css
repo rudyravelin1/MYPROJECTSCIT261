@@ -14,7 +14,8 @@ a:hover {
 	font-size: 50px;
 }
 
-.p2 {
+p.p2 {
 	color: white;
-	font-size: 40px;
+	font-size: 30px;
+	text-shadow: 4px 4px #FF0000;
 }
