@@ -1,0 +1,15 @@
+body {
+	background-image: url(backimg.jpg);
+}
+
+p {
+	color: red;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 40px;
+}
+
+a:hover {
+	color: hotpink;
+	position: center;
+	font-size: 50px;
+}
